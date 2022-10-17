@@ -1,0 +1,6 @@
+{
+    "testRegex":"/integration/*\\.test\\.mjs$",
+    "transform": {
+      "^.+\\.mjs$": "babel-jest"
+    }
+}
